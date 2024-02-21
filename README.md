@@ -214,9 +214,8 @@ $
 At this time, there are no known bugs.
 
 
-## Authors
+## Author
 
-- Ebrudu Hendrix Obukome | [GitHub](https://www.github.com/HendrixTech)
 - Grace Bamidele | [GitHub](http:/www.github.com/Gracy222)
 
 
